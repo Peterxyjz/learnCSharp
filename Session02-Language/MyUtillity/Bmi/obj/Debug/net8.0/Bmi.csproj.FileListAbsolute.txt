@@ -1,0 +1,14 @@
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\bin\Debug\net8.0\Bmi.exe
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\bin\Debug\net8.0\Bmi.deps.json
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\bin\Debug\net8.0\Bmi.runtimeconfig.json
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\bin\Debug\net8.0\Bmi.dll
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\bin\Debug\net8.0\Bmi.pdb
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.dll
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.pdb
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\Bmi.genruntimeconfig.cache
+D:\fptu\CN5\PRN212\Code\Session02-Language\MyUtillity\Bmi\obj\Debug\net8.0\ref\Bmi.dll

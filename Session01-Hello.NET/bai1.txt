@@ -1,0 +1,100 @@
+C:\Users\HUY>dotnet --version
+8.0.204
+
+C:\Users\HUY>dotnet --list-sdks
+8.0.204 [C:\Program Files\dotnet\sdk]
+
+C:\Users\HUY>dotnet --list-runtimes
+Microsoft.AspNetCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+Microsoft.WindowsDesktop.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+C:\Users\HUY>dotnet --info
+.NET SDK:
+ Version:           8.0.204
+ Commit:            c338c7548c
+ Workload version:  8.0.200-manifests.9f663350
+
+Runtime Environment:
+ OS Name:     Windows
+ OS Version:  10.0.22631
+ OS Platform: Windows
+ RID:         win-x64
+ Base Path:   C:\Program Files\dotnet\sdk\8.0.204\
+
+.NET workloads installed:
+There are no installed workloads to display.
+
+Host:
+  Version:      8.0.4
+  Architecture: x64
+  Commit:       2d7eea2529
+
+.NET SDKs installed:
+  8.0.204 [C:\Program Files\dotnet\sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+
+Other architectures found:
+  x86   [C:\Program Files (x86)\dotnet]
+    registered at [HKLM\SOFTWARE\dotnet\Setup\InstalledVersions\x86\InstallLocation]
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download
+
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld>dotnet new console --framework net8.0 --use-program-main
+The template "Console App" was created successfully.
+
+Processing post-creation actions...
+Restoring D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\HelloWorld.csproj:
+  Determining projects to restore...
+  Restored D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\HelloWorld.csproj (in 48 ms).
+Restore succeeded.
+
+
+
+
+
+cd .. đi lên
+cd    đi xuống
+
+//NOTE CUỐI GIỜ:
+0. SDK là gì? .NET SDK là gì?
+-Software deveplopment kit: bộ công cụ đồ chơi danh cho DEV
+==> ĐỂ LÀM 1 LOẠI APP NÀO ĐÓ. App thì được viết thông qua 1 ngôn ngữ lập trình.
+Vậy để lập trình với 1 ngôn ngữ nào đó, ta cần trước tiên: cài SDK tương ứng
+
+- Ví dụ dùng java thì:
+Ta cần JAVA SDK gọi tắt là JDK (Java Development KIT)
+
+-Với PRN2XX, Ta sẽ dùng ngôn ngữ lập trình C#, và ta cần sdk cho C#, Gọi tên là .NET SDK (ko gọi là C# SDK)
+
+Lí do không gọi tên C# SDK vì:
+Microsoft khoảng năm 2000, chế ra 4 ngôn ngữ lập trình cùng 1 lúc : Visual C++ .NET, VB.NET, C#, F#
+4 anh này cùng cần SDK, Xài chung 1 SDK, gọi là .NET SDK ra đời
+
+--Lịch sử phát triển của .NET SDK thì bắt đầu từ
+.NET FRAMEWORK - ĐỜI ĐẦU - LÚC NÀY APP CHỈ CHẠY TRÊN WINDOWs (version 4.8.X dừng)
+
+.NET CORE - Đa nền  - CROSS PLATFORM (CHẠY TRÊN NHIỀU HỆ ĐỀU HÀNH) (version 5.0 dừng)
+
+.Gần đây, Gọi .NET cho gọn (5. 6. 7. 8. 9.)
+
+
+
+
+
+
+

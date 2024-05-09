@@ -1,0 +1,14 @@
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\fptu\CN5\PRN212\Code\Session01-Hello.NET\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
