@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\",
+  "WorkspaceRootPath": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|d:\\fptu\\cn5\\prn212\\code\\session02-language\\myutillity\\bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|solutionrelative:bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6502A257-4F14-482A-A29D-018A1B4CAF3B}|LibraryUsege\\LibraryUsege.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\libraryusege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6502A257-4F14-482A-A29D-018A1B4CAF3B}|LibraryUsege\\LibraryUsege.csproj|solutionrelative:libraryusege\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|d:\\fptu\\cn5\\prn212\\code\\session02-language\\myutillity\\bmi\\bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\bmiv2\\bmiv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|solutionrelative:bmiv2\\bmiv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|d:\\fptu\\cn5\\prn212\\code\\session02-language\\myutillity\\mainui\\mainui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|solutionrelative:mainui\\mainui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\bmiv2\\bmiv2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|solutionrelative:bmiv2\\bmiv2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|d:\\fptu\\cn5\\prn212\\code\\session02-language\\myutillity\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\bmiv2\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D25A5DEC-F6A7-4508-930E-8169836CFEB3}|BmiV2\\BmiV2.csproj|solutionrelative:bmiv2\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|d:\\fptu\\cn5\\prn212\\code\\session02-language\\myutillity\\mainui\\music\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05F2E9DC-A325-458F-B987-6E4F0A5C4904}|MainUI\\MainUI.csproj|solutionrelative:mainui\\music\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|d:\\fptu\\cn5\\prn212\\inclass\\session02-language\\myutillity\\bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E145FAAB-D6DC-48E9-9B06-E55AD538F468}|Bmi\\Bmi.csproj|solutionrelative:bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,72 +37,80 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BmiV2",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiV2.csproj",
+              "RelativeDocumentMoniker": "BmiV2\\BmiV2.csproj",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiV2.csproj",
+              "RelativeToolTip": "BmiV2\\BmiV2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T06:32:38.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bmi",
-              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
-              "RelativeDocumentMoniker": "Bmi\\Bmi.csproj",
-              "ToolTip": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
-              "RelativeToolTip": "Bmi\\Bmi.csproj",
+              "Title": "BmiV2",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiV2.csproj",
+              "RelativeDocumentMoniker": "BmiV2\\BmiV2.csproj",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiV2.csproj",
+              "RelativeToolTip": "BmiV2\\BmiV2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T07:47:08.945Z",
+              "WhenOpened": "2024-05-13T06:32:26.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Program.cs",
-              "RelativeDocumentMoniker": "Bmi\\Program.cs",
-              "ToolTip": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Program.cs",
-              "RelativeToolTip": "Bmi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\LibraryUsege\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryUsege\\Program.cs",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\LibraryUsege\\Program.cs",
+              "RelativeToolTip": "LibraryUsege\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:44:14.87Z",
+              "WhenOpened": "2024-05-13T06:27:00.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MusicLibrary.cs",
-              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\Music\\MusicLibrary.cs",
-              "RelativeDocumentMoniker": "MainUI\\Music\\MusicLibrary.cs",
-              "ToolTip": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\Music\\MusicLibrary.cs",
-              "RelativeToolTip": "MainUI\\Music\\MusicLibrary.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAAOAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\Program.cs",
+              "RelativeDocumentMoniker": "MainUI\\Program.cs",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\Program.cs",
+              "RelativeToolTip": "MainUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:17:02.5Z",
+              "WhenOpened": "2024-05-13T06:24:17.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainUI.csproj",
-              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
-              "RelativeDocumentMoniker": "MainUI\\MainUI.csproj",
-              "ToolTip": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
-              "RelativeToolTip": "MainUI\\MainUI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-09T07:09:40.124Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\Bmi\\Program.cs",
+              "RelativeDocumentMoniker": "Bmi\\Program.cs",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\Bmi\\Program.cs",
+              "RelativeToolTip": "Bmi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:07:09.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\Program.cs",
-              "RelativeDocumentMoniker": "MainUI\\Program.cs",
-              "ToolTip": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\Program.cs",
-              "RelativeToolTip": "MainUI\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Title": "BmiCalculator.cs",
+              "DocumentMoniker": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiCalculator.cs",
+              "RelativeDocumentMoniker": "BmiV2\\BmiCalculator.cs",
+              "ToolTip": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\BmiV2\\BmiCalculator.cs",
+              "RelativeToolTip": "BmiV2\\BmiCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T06:20:38.583Z",
+              "WhenOpened": "2024-05-13T05:53:48.412Z",
               "EditorCaption": ""
             }
           ]

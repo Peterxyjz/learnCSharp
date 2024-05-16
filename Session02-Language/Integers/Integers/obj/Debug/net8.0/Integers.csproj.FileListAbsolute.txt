@@ -1,0 +1,14 @@
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.exe
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.deps.json
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.runtimeconfig.json
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.dll
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.pdb
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfoInputs.cache
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfo.cs
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.csproj.CoreCompileInputs.cache
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.dll
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\refint\Integers.dll
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.pdb
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.genruntimeconfig.cache
+D:\fptu\CN5\PRN212\InClass\Session02-Language\Integers\Integers\obj\Debug\net8.0\ref\Integers.dll

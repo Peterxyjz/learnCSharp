@@ -1,0 +1,22 @@
+Tổng quan kiến thức:
+Buổi này học về:
++ file .csproj: visual studio cần nó để hiển thị src code, khi run thì nó còn biết là run với .dotnet mấy 
+	==> chứa thông tin của cái dự án mình tạo. ĐẶC BIỆT LÀ NÓ CHỨA (CHO BIẾT) .DONET SDK verson mấy 
++ Tạo mới Solution & Project:
+1. Solution is container for one or more projects ==> cha project 
+- namespace <=> package trong java : chẳng qua là file thư mục chứa src code
+- Tên hàm phải bất đầu bằng chữ viết hoa (điểm khác biệt với java)
+- Có 4 kỹ thuật in
+	+ String Concatenated (ghép chuỗi + )
+	+ place-holder - điền vào chỗ trống
+	+ interpolation - nội suy giá trị biến trong chuỗi $
+	+ @ sẽ biến chuỗi thành chuỗi nguyên bản, phế võ công tất cả kí tự đặt biết ==> Verbatim
+- SRC code chính là class
+- Trong java thì vào src mới thấy những class C3 cắt ngắn quá trình này
+- Mỗi tầng thư mục con là dấu .
+- using tương đương import bên java
+- Mỗi project có duy nhất 1 dll
+- dấu chấm trong namespace/package mang ý nghĩa chia thư mục cha con khi mình tổ chức code theo cây thư mục cho dễ quản lí, tránh tên class bị đụng độ
+
+Khi tạo project sẽ sinh ra .csproj   .cs
+

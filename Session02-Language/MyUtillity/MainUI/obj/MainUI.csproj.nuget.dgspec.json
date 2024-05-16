@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj": {}
+    "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj": {}
   },
   "projects": {
-    "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj": {
+    "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
+        "projectUniqueName": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
         "projectName": "MainUI",
-        "projectPath": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
+        "projectPath": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\MainUI.csproj",
         "packagesPath": "C:\\Users\\HUY\\.nuget\\packages\\",
-        "outputPath": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\MainUI\\obj\\",
+        "outputPath": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\MainUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
+      "projectUniqueName": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
       "projectName": "Bmi",
-      "projectPath": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
+      "projectPath": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\Bmi\\Bmi.csproj",
       "packagesPath": "C:\\Users\\HUY\\.nuget\\packages\\",
-      "outputPath": "D:\\fptu\\CN5\\PRN212\\Code\\Session02-Language\\MyUtillity\\Bmi\\obj\\",
+      "outputPath": "D:\\fptu\\CN5\\PRN212\\InClass\\Session02-Language\\MyUtillity\\Bmi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,32 @@
+//học về làm thư viên, document, expresstion , tham chiếu
+
+I.Học về cách tạo thư viện trong C# và cách làm document cho thư viện cũng như có các hàm trong thư viên luôn
+* Lưu ý phải chỉnh: chọn class (PROJECT) + chuột phải chọn Property ==> Tới đây quên rồi =)))
+
+II. Khi hàm (method) chỉ có 1 lệnh thì ta được quyền viết tắt theo Expression Body:
+EX: 
+	static void PrintBMIString() => Console.WriteLine("BMI stands for Body Mass Index");
+Nó giống Lamda expression nhưng hai thằng này là khác nhau
+
+*Ôn lại chút về lamda (JAVA):
+Trong java lamda được dùng để implement cho interface chuẩn (interface chỉ có 1 abstract method)
+
+III. Quy tắt đặt tên:
++ Biến local thì đặt giống java - camel case notation
++ Tên hàm (method) thì đặt theo - pascal case notation
+
+IV. Datatype (Integer):
+- Giống java
+- Các cấu trúc: for, while, do-while, if, switch: đều giống java
+
+- Viết 1 số hàm cơ bản để ôn lại integer và các cú pháp
+- Học thêm về var:
+==> Var: là kĩ thuật khai báo biến không cần quan tâm datatype, C# tự suy ra datatype khi gán value lần đầu tiên được gán.
+==> Kĩ thuật này được gọi là: type infferrent - suy luận kiểu
+// Java cũng có var nhưng là bản jdk cao mới có
+
+- keyword in ở biến nhận vào(parameter) ==> biến tham số nhận vào thành readonly và cấm đổi giá trị 
+==> đảm bảo data đi vào đúng mục đích
+
+
+

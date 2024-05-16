@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BmiV2</name>
+    </assembly>
+    <members>
+        <member name="T:BmiV2.BmiCalculator">
+            <summary>
+            1 thư viện là 1 dependence: phụ thuộc
+            Class này chứa các method liên quan đến chỉ số BMI - chí số sức khỏe của một cá nhân thông qua chiều cao và cân nặng
+            </summary>
+        </member>
+        <member name="M:BmiV2.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            Hàm này tính ra chỉ số Bmi dựa trên chiều cao và cân nặng
+            </summary>
+            <param name="weight">Cân nặng đo bằng kg</param>
+            <param name="height">Chiều cao đo bằng m</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
