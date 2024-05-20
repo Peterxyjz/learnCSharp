@@ -7,7 +7,14 @@
             //PrintIntegerList();
             //PrintOddNumbers();
             //PrintSumEvenNumber();
-            PrintNumberFrom1ToN(15);
+            //PrintNumberFrom1ToN(15);
+            //Console.WriteLine(SumNumber());
+            //expected value: 5050
+            //actual: con sum, mày bằng mấy
+            //nếu actual là sum == 5050 ==> Passed cased
+
+            Console.WriteLine($"Sum of evens from 1 - 10: {SumEvens()}");
+
         }
 
         //C#: cung cấp các datatype về số y chang java:
@@ -83,6 +90,25 @@
             for (int i = 1; i <= n; i++)
                 Console.Write($"{i} ");
             Console.WriteLine();
+        }
+
+        //CHANGLE 5: Viết hàm tính tổng của các số từ 1...100 và trả về kết quả
+        static int SumNumber()
+        {
+            int sum = 0;
+            for (int i = 1; i <= 100; i++)
+                sum += i;
+            return sum;
+        }
+
+        //CHANGLE 6: Viết hàm tính tổng số chẵn từ 1 - 100 
+        static int SumEvens()
+        {
+            int sum = 0;
+            for (int i = 1; i <= 10; i++)
+                if (i % 2 == 0)
+                    sum += i;
+            return sum;
         }
 
     }
