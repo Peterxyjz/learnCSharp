@@ -1,0 +1,41 @@
+//Học về IN, REF, OUT
+
+I. Keyword IN:
++ Keyword in ở parameter sẽ biến tham số nhận vào thành read-only và cấm đổi giá trị 
++ Mục đích đảm bảo data đi vào đúng mục đích
+
+II. Keyword Out:
++ Keyword chỉ dùng ở tham số hàm (đầu vào của hàm)
++ Hứa return ra giá trị trong tham số nhận vào có keyword out
+VD:
+static void PowerBy2V2(out int n)
+{ 
+    n = 100;
+}
+	- Em hứa trong hàm, em sẽ return 1 giá trị n nào đó cụ thể qua cái biến n
+	- out nghĩa là hứa chắc cú sẽ có
+
+
+==> Out là kĩ thuật truyền tham chiếu, truyền địa chỉ vùng ram cho biến khác giữ, pass by reference và chỉ được dùng ở tham số hàm
+    Ứng dung: Giúp hàm trả về cùng lúc nhiều giá trị qua ngách/ đường/ hướng tham số
+    OUT: nghiêm túc, trong code của hàm out, bắt buộc phải có lệnh nào đó để gán 1 giá trị cụ thể cho biến out này
+    OUT: em hứa trong hàm của em sẽ trả về cho anh bên ngoài 1 giá trị 
+    //Hậu trường:
+    //              int x = 10      Ô RAM x [ 10 ]
+    //                  x = 11            x [ 11 ]  
+   
+    //              int x = 10      Ô RAM x [ 10 ]
+    
+    //         F(out int n)         Ô RAM n [ ?? ]
+
+    //xài       int z               Ô RAM z [ ?? ]
+
+//gọi hàm F(out z)
+// Ô RAM z [ ???]
+//            |
+// Ô Ram N [ ??? ]
+
+//N THAY ĐỔI THÌ Z THAY ĐỔI
+
+
+//REF: tao không hứa sẽ trả về; luôn phải có defaul khi dùng ref

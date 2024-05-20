@@ -1,0 +1,39 @@
+I. Học vài lệnh check và tạo project không cần tool
+
+dotnet --version
+dotnet --list-sdks
+dotnet --list-runtimes
+dotnet --info
+dotnet new console --framework net8.0 --use-program-main
+
+II. SDK là gì? .NET SDK là gì?
+-Software deveplopment kit: bộ công cụ đồ chơi danh cho DEV
+==> ĐỂ LÀM 1 LOẠI APP NÀO ĐÓ. App thì được viết thông qua 1 ngôn ngữ lập trình.
+Vậy để lập trình với 1 ngôn ngữ nào đó, ta cần trước tiên: cài SDK tương ứng
+
+- Ví dụ dùng java thì:
+Ta cần JAVA SDK gọi tắt là JDK (Java Development KIT)
+
+-Với PRN2XX, Ta sẽ dùng ngôn ngữ lập trình C#, và ta cần sdk cho C#, Gọi tên là .NET SDK (ko gọi là C# SDK)
+
+Lí do không gọi tên C# SDK vì:
+Microsoft khoảng năm 2000, chế ra 4 ngôn ngữ lập trình cùng 1 lúc : Visual C++ .NET, VB.NET, C#, F#
+4 anh này cùng cần SDK, Xài chung 1 SDK, gọi là .NET SDK ra đời
+
+--Lịch sử phát triển của .NET SDK thì bắt đầu từ
+.NET FRAMEWORK - ĐỜI ĐẦU - LÚC NÀY APP CHỈ CHẠY TRÊN WINDOWs (version 4.8.X dừng)
+
+.NET CORE - Đa nền  - CROSS PLATFORM (CHẠY TRÊN NHIỀU HỆ ĐỀU HÀNH) (version 5.0 dừng)
+
+.Gần đây, Gọi .NET cho gọn (5. 6. 7. 8. 9.)
+
+III. SDK > Runtimes
+
+.NET SDKs installed:
+  8.0.204 [C:\Program Files\dotnet\sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.NETCore.App]
+  Microsoft.WindowsDesktop.App 8.0.4 [C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App]
+

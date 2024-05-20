@@ -1,4 +1,4 @@
-//học về làm thư viên, document, expresstion , tham chiếu
+//học về làm thư viên, document, expresstion , tham chiếu, dịch mã nguồn
 
 I.Học về cách tạo thư viện trong C# và cách làm document cho thư viện cũng như có các hàm trong thư viên luôn
 * Lưu ý phải chỉnh: chọn class (PROJECT) + chuột phải chọn Property ==> Tới đây quên rồi =)))
@@ -25,8 +25,28 @@ IV. Datatype (Integer):
 ==> Kĩ thuật này được gọi là: type infferrent - suy luận kiểu
 // Java cũng có var nhưng là bản jdk cao mới có
 
-- keyword in ở biến nhận vào(parameter) ==> biến tham số nhận vào thành readonly và cấm đổi giá trị 
-==> đảm bảo data đi vào đúng mục đích
+IV - DLL và mã nguồn
+- DLL: DYNAMIC LINK LIBRARY - Thư viện, package, thư mục, namespacse chứa bên trong nhiều class/method để cung cấp tiện ích cho dân dev
+Vd: Làm việc gì đó, chẳng hạn .dll để quản lí camera, .dll để móc xuống database
+
+- DLL: Nó không phải là file nhị phân - Binary code mà là code/ mã trung tính, trung gian không gắn với 1 OS cụ thể, nó chạy chơi với runtime, runtime chơi với OS
+
+- App chạy đa nền/ Platfrom independent, cross-platform bản chất là phải có thằng runtime gắn với OS/NỀN cụ thể
+- PHẢI CÓ THẰNG RUNTIME GẮN VỚI OS/NỀN CỤ THỂ
+- APP CHỈ CHƠI VỚI THANG RUNTIME
+- APP CHỈ CHOI VOI THANG RUNTIME	--MACOS
+					--Linux
+					--Windows
+- APP TRUNG TÍNH - CODE TRUNG TÍNH NAY GỌI LA MSIL LANGUAGE, IL
+					MICROSOF INTERMEDIATE LANGUAGE
+
+- Từ Msil -> back ngược lại .CS Source code gốc dev viết ra
+		Reverse eningeering - dịch ngược về src code
+		DE-COMPILER
+
+- Từ Misl lúc run thì biến thành machine code - binary code/native code 
+				Thật gắn OS
+				Chỉ dùng ngôn ngữ lập trình cấp thấp assembly để xem
 
 
 
