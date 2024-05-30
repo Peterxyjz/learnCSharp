@@ -1,0 +1,14 @@
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.AssemblyInfoInputs.cache
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.AssemblyInfo.cs
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.csproj.CoreCompileInputs.cache
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.exe
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.deps.json
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.runtimeconfig.json
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.dll
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.pdb
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.dll
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\refint\StudentManagerV3.dll
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.pdb
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.genruntimeconfig.cache
+D:\fptu\CN5\PRN212\InClass\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\ref\StudentManagerV3.dll

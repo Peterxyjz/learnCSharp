@@ -47,6 +47,3 @@ Vd: Làm việc gì đó, chẳng hạn .dll để quản lí camera, .dll để
 - Từ Misl lúc run thì biến thành machine code - binary code/native code 
 				Thật gắn OS
 				Chỉ dùng ngôn ngữ lập trình cấp thấp assembly để xem
-
-
-

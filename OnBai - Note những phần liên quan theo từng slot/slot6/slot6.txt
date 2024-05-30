@@ -1,0 +1,34 @@
++ 1GB = 1 tỷ byte, mỗi tầng có 8bit
++ Byte thứ 0 dành cho giá trị null
+
+II. Luật RAM:
+xem hình đi kèm
+1. Có biến là có vùng RAM được cấp
+2. Biến primitive, biến value-type dùng 1 vùng RAM duy nhất
+3. Có new có vùng nhớ mới để lưu object (nằm ở HEAP)
+4. Biến object dùng 2 vùng ram
+
+III. Kĩ thuật mới
+1. NULL CONDITIONAL OPERATOR
++ Câu lệnh ? đi kèm tên biến object kiểm tra xem biến đó có null không, nếu không null, tức là biến đã trỏ vùng new, thì cứ tự nhiên. 
++ Gọi hàm ko sợ bị báo loi runtime reference. Thực ra là lệnh gộp của if else
++ ? ĐI KEM LOI GOI HAM CỦA OBJECT, GOP KIỂM TRA NULL TRƯỚC KHI Gọi hàm
++ //? ĐC GOI LA: NULL CONDITIONAL OPERATOR - TOAN TỬ KIỂM TRA NULL CỦA OBJECT
+
+2. 2 chàng trỏ 1 nàng:
+Cái này học ở java c rồi nên đéo có gì cần note
+Điểm khác:
+==> Object is pass by reference so it dont need ref out
+==> ref out use in PRIMITIVE datatype
+
+3. Coalesing operator: ??
+// ?? Kiểm tra object có null không rồi bán mình, đem mình đi gán thay vì đi gọi hàm như ? null conditional operator
+
+4. Toán tử 3 ngôi: Conditional ternanry operator
+
+5.Nullable: này học ở slot5 rồi
+
+
+
+
+

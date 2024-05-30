@@ -1,0 +1,39 @@
+I. Members of class:
+1. Class:
++ Class là cái khuôn dùng để đúc ra các object, bức tượng, món đồ
++ Class chứa các đặc điểm chung của các object, nó chứa các chi tiết: lồi lõm, bề mặt, góc cạnh, cần nhận vật liệu vào để hình thành nên bức tượng.
+- Class sẽ chứa các đặc điểm và hành vi của đối tượng được tạo ra từ khuôn này
+- Đặc điểm: là thứ mô tả tính chất thường là tĩnh, nhận dạng của object thuộc class/nhóm này - gọi là biến field, attribute
+- Hành vi: động, nói về hành động, xử lí, tính toán của 1 object  gọi là hàm - method function
+=> Hàm + Biến -> gọi là members of class.
+
+II. Constructor:
+- Ta cần contrusctor: để đổ value vào, nó là 1 hàm dùng để dựng ra 1 object 
+=> Hàm constructor - gã xây dựng xây dựng ra 1 gì đó
+- Một cái khuông có thể có nhiều cách đúc khác nhau 
+- Có nhiều đường vật liệu đi vào ứng với class ==> có nhiều constructor
+- Bao nhiêu constructor bấy nhiêu cách new
+
+#TH1: Gọi constructor:
++ Biến gắn với đặc điểm của 1 obj mà không đc đổ value vào
++ 	Thì new nó sẽ có default
+//số default: 0
+//chuỗi default: ""
+//bool default: false
+
+- Mỗi lần gọi new là 1 object mới được tạo ra, vùng ram mới, vùng new mới được tạo ra, 
+- Set là đổi trên đối tượng hiện tại.
+
+#TH2: Class không constructor:
+- Nếu khuôn không có constructor thì ta vẫn được 1 object, tức là sẵn có giá trị default
+- Máy ảo Java, VM, Runtime machine bên C# sẽ tự động cung cấp 1 empty constructor, phễu rỗng, không tham số, không đầu vào, không gán gì cả, mục đích để kết hợp với toán tử new để cung cấp vùng ram object mang giá trị default cho các field
+- Không có constructor, mặc nhiên ta sẽ xài empty constructor
+
+#TH3: Khi class có constructor:
+- Khi class có constructor máy ảo của C# và java sẽ không tự tạo default constructor
+- Trong class được quyền tạo empty constructor, và chúng sống chung với các class khác như bthg
+
+III. ToString:
++ ToString() được xử lý y như java
++ Nếu 1 class không có làm hàm toString() 1 cách tường mình, thì khi gọi thầm toString thì C# sẽ trả ra datatype 
++ Chứ không phải hexa như java

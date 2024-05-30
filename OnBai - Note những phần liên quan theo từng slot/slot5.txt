@@ -1,0 +1,17 @@
+//NullValue
+
+I. Null là gì?
++ Null được xem là một (value) đại diện không có gì, chưa có gì nhưng biết, chưa xác định datatype
+
++ Null được áp dụng cho biến object, để nói rằng biến chưa trỏ vào object nào!!
+
+II.Error:
++ Nếu biến nói chung trong java và C# chỉ khai báo mà chưa gán giá trị thì cấm sài ở các lệnh phía dưới, sẽ bị báo lỗi ngay lúc viết code
++ 
+
+III. Variable:
+Cú pháp con lạc đà + _ khi khái báo instance variable/field của 1 class
+
++ Trước giờ: null là đặc quyền cho biến object mang ý nghĩa chưa rõ vùng new, không mang rác
++ C# vẫn muốn primitive lưu không gì cả thì dùng ? đi kèm datatype
+Nullable: primitive datatype có khả năng chứa giá trị null!

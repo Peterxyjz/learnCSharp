@@ -113,3 +113,11 @@
 
     }
 }
+
+//Challenge at home:
+//Nếu tôi nói là in không giá trị đầu vào
+//void F(in datatype thamsốnaodo)
+
+//nếu in đi kèm với datatype mà là object 
+//đoán xem in cụ thể nghĩa là gì
+//void F(in Student x)
