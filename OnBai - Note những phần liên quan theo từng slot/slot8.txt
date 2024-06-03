@@ -1,0 +1,67 @@
+I. Lập trình OOP - Object Oriented Paradigm/ Programming
+Lập trình hướng đối tượng
+1. Nhận diện bài toán, quanh ta, các object
+  Object : cái cụ thể, mô tả được bằng lời dài bao gồm:
+  * Đặc điểm/atribute/ state - tĩnh
+      - ID, Năm Sinh, địa chỉ,...
+  * Hành vi/ Behavior/ method/ function - động
+      - Hỏi tuổi GetAge()...
+2. Gom nhóm chia nhóm đối tượng thành các nhóm riêng
+  Nhóm/Class (Classify - Verb) dựa theo đặc điểm tương đồng của các object
+  ta có class student, lecture,...
+  class như cái khuôn, form, template, blueprint
+   
+3. Từ class sẽ ra object trở lại
+  Ngoài đời ta clone/photo - new cái khuôn, template
+  đổ value vào khuôn/form - constructor
+
+4. Ta có constructor để clone ra object, ta sẽ nhìn thấy object và chỉnh sửa
+      - Thấy, nhìn được, xem được - getter
+      - Chỉnh sửa - setter
+5. Ta muốn show hết info có thể, vd: ta clone 1 account FB
+      - ShowInfor();
+      - ToString
+6. Các hành động khác nếu cần của 1 object
+
+Lập trình oop chính là lập trình trên template, khuôn, sau đó áp dụng chung cho mọi object clone từ khuôn
+Kỹ thuật tổ chức quản lí info qua OOP
+
+II. Named-argument - Truyền value vào kèm tên tham số
+Student s2 = new Student(name: "Binh",yob: 2004 ,gpa: 8.9,id: "SE1");
++ Ghi rõ tên đầu vào của hàm kèm dấu : kèm value
++ Cho phép truyền lộn xộn tham số, mà không bị gãy datatype
+=> giúp truyền tham số linh hoạt hơn
+
+III. Object vô danh - anonymous object:
++ Biến[] ------------> trỏ---------> [vùng new bự có members]
++ Student s ---------> new student(...);
+=> s.tức là vào vùng new chấm
+
+sinh viên đặc biệt
+            new student("se3", "cường", 2004, 8.8).showprofile();
+object vô danh, vùng new student() đầy đủ info, gọi hàm, được 1 lần, mất dấu vết do không có biến tham chiếu vào nó
+máy ảo, runtime sẽ rà quét vùng ram coi có thằng nào lơ lửng
+clear liền để ram cho object khác - garbage collector
+
+IV. Get và set in C#
+//get set bản mới:
+public int Yob //đóng 2 vai vừa get vừa set
+{
+    get => _yob;
+    set => _yob = value;
+}//value ứng với tham  số đầu vào của hàm set yob truyền thống
+//là cách viết gộp của hàm get và set truyền thống
+
+//dùng ntn?
+//.Yob là get
+//.Yob = 2005 là set 
+
+public double Gpa //Property of object chứ không phải attribute/field
+{
+    get => _gpa; //_gpa gọi là backing field, biến chống lưng đằng sau set() get()
+    set => _gpa = value;
+}
+
+V. Object initialization:
+Student s1 = new Student() { Yob = 2004, Gpa = 8.6 };
+//vừa new vừa set 
